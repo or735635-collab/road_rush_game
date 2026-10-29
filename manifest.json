@@ -1,0 +1,12 @@
+{
+  "name": "Road Rush Car Racing",
+  "short_name": "Road Rush",
+  "description": "A free arcade car racing game.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "orientation": "portrait",
+  "icons": []
+}
